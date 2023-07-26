@@ -1,0 +1,5 @@
+com\awssnslambda\AwsSnsLambdaDemo\model\Employee$EmployeeBuilder.class
+com\awssnslambda\AwsSnsLambdaDemo\AwsSnsLambdaApplication.class
+com\awssnslambda\AwsSnsLambdaDemo\model\Employee.class
+com\awssnslambda\AwsSnsLambdaDemo\model\Response.class
+com\awssnslambda\AwsSnsLambdaDemo\model\Response$ResponseBuilder.class
