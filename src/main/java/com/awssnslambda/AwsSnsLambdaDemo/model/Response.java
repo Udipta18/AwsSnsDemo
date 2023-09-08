@@ -8,4 +8,5 @@ import lombok.Data;
 public class Response {
 	private String message;
     private int httpCode;
+    private int democlone;
 }
