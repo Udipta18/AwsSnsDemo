@@ -13,4 +13,6 @@ public class Employee {
 	 private Integer empId;
 	    private String name;
 	    private String emailId;
+		private String clonebranchchanges;
+
 }
